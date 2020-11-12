@@ -7,13 +7,13 @@ Lambdaの環境変数にTwitter APIを使用するための
 
 イベントトリガーのスケジュールを設定して、終了。
 
+***
+
 ## Zappa導入
 
 ```bash
 $ zappa init
 ```
-
-### Lambdaへのデプロイ
 
 ### Lambdaへのデプロイ
 ```bash
